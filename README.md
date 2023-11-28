@@ -19,7 +19,7 @@
 
 ![image](https://github.com/TooBunReal/pwn_training/assets/89735990/e0416e80-c734-4f0c-b7b3-171bf3f7e39a)
 
-- ta thấy rdi sẽ chứa địa chỉ của buffer.
+- ta thấy rsi sẽ chứa địa chỉ của buffer.
 
 ![image](https://github.com/TooBunReal/pwn_training/assets/89735990/87484473-f798-4cc3-ab59-e391184a10fc)
 
