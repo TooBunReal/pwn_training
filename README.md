@@ -1,4 +1,4 @@
-![image](https://github.com/TooBunReal/pwn_training/assets/89735990/d52c8a9f-7c7d-4914-9f61-1f3555d67ad7)# pwn_training
+# pwn_training
 ## ROP
 
 ![image](https://github.com/TooBunReal/pwn_training/assets/89735990/d6ae2cd6-0782-4e26-b492-b8c6534e6084)
