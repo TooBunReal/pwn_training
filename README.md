@@ -20,4 +20,13 @@
 ![image](https://github.com/TooBunReal/pwn_training/assets/89735990/4b231de1-6ddd-4280-b94d-c2f52f58bc3a)
 
 - Tại hàm vuln ta thấy giá trị của rsi sẽ chứa địa chỉ của buffer.
-- 
+
+![image](https://github.com/TooBunReal/pwn_training/assets/89735990/2f565a62-40fa-4b3a-910c-35cd22ba40a8)
+
+![image](https://github.com/TooBunReal/pwn_training/assets/89735990/4f4fdf1b-e6b2-47bb-bcaa-da5a0f580bd5)
+
+
+![image](https://github.com/TooBunReal/pwn_training/assets/89735990/4bdd6d65-714d-4e4b-8a36-0fe3d8d218cf)
+
+Tiến hành debug ta có được giá trị của buffer là 0x28 (40)
+Bây giờ mình chỉ cần lắp đầy nó và từ rip trở đi, ta sẽ thực hiện được đoạn code mà mình muốn.
